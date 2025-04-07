@@ -15,7 +15,7 @@
 
 > 💖 Bài hát - Song: **Đã lỡ yêu em nhiều**  
 > 🎤 Tác giả / Artist: **JustaTee**  
-> 🔗 YouTube: [https://www.youtube.com/watch?v=zzB9Skh-mPM](https://www.youtube.com/watch?v=zzB9Skh-mPM)
+> 🔗 YouTube: [Link nhạc](https://www.youtube.com/watch?v=Pc1CD6sDuPc)
 
 * Script sử dụng một đoạn lời bài hát từ bài nhạc này để tạo hiệu ứng chữ chạy. Bạn có thể thay đổi lời khác dễ dàng trong phần `lyrics` của code.
 * The script uses a lyric from this song to create the scrolling text effect. You can easily change the lyrics in the `lyrics` section of the code.
