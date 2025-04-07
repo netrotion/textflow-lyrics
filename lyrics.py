@@ -1,5 +1,5 @@
 #netrotion - hngl2808
-
+#this code only work on windows, if you want to running on another os, you can customize this script :D
 from msvcrt import getch #module nhận diện phím (k dùng)
 import winsound #module chơi nhạc
 import threading
