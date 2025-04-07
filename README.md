@@ -2,6 +2,7 @@
 
 Một công cụ đơn giản giúp **hiển thị lời bài hát với hiệu ứng chữ chạy (animation)** bằng Python. Dễ dùng, dễ tùy biến, thích hợp cho các dự án trình chiếu nhạc, karaoke mini, hoặc tạo video lyric đơn giản.
 A simple tool to **display song lyrics with animation** in Python. Easy to use, easy to customize, suitable for music slideshow projects, or creating simple lyric videos.
+
 ---
 
 <p align="center">
