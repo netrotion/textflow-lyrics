@@ -25,8 +25,8 @@
 
 ## 🛠️ Cài đặt - Setup
 
-Yêu cầu Python (Requires Python) >= 3.6.
+Phiên bản python (Python version) >= 3.6.
 
-Cài thư viện cần thiết(Install required libraries):
+Chỉ cần chạy file .py(Only need to run .py script):
 ```bash
-pip install -r requirement.txt
+python3 lyrics.py
